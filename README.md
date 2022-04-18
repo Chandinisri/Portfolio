@@ -73,7 +73,7 @@
             <img src='https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/2x/external-portfolio-digital-business-photo3ideastudio-lineal-color-photo3ideastudio.png'/>
             <div class='projectDescription'>
               <h4>Project-1: Portfolio</h4>
-              <p>This project is the development of a responsive protfolio of mine using HTML, CSS and Javascipt. I've used "repl.com" to develop this project in guidance of ShapeAI team.</p>
+              <p>This project is the development of a responsive protfolio of mine using HTML and CSS. I've used "repl.com" to develop this project in guidance of ShapeAI team.</p>
             </div>
           </div>
           <div class='projectContainer'>
